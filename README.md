@@ -1,6 +1,6 @@
 # ai-repos
 
-A list of my repositories using artificial intelligence.
+A list of my repositories with projects using artificial intelligence.
 
 ## [Sci-fi novels evolution](https://github.com/ferdesmello/sci-fi-novels-evolution)
 
