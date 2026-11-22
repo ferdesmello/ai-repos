@@ -24,4 +24,4 @@ A prototype AI-based forecast system designed to predict space weather hazards: 
 
 A machine-learning project for identifying sugarcane fields in satellite imagery for an Epic of Sun internship.
 
-[![Interactive visualization](https://github.com/ferdesmello/spacesugar/blob/main/figures/unet/unet_sugarcane_results_1.png)](https://github.com/ferdesmello/spacesugar)
+[![Interactive visualization](https://github.com/ferdesmello/spacesugar/blob/main/figures/unet/unet_sugarcane_results.png)](https://github.com/ferdesmello/spacesugar)
